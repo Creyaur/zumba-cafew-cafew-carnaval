@@ -8,7 +8,7 @@ var bullet_player1_material = new THREE.MeshLambertMaterial(
 
 function shoot()
 {
-    if (keyboard.pressed("space") && bulletTime1 + 0.8 < clock.getElapsedTime())
+    if (keyboard.pressed("space") && bulletTime1 + 0.1 < clock.getElapsedTime())
     {
         bullet = new THREE.Mesh(
             new THREE.SphereGeometry(2),
