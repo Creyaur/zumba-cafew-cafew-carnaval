@@ -13,6 +13,10 @@ function update()
     if (keyboard.pressed("down"))
         player1.decelerate(moveDistance);
 
+    enemi1.turnLeft(rotateAngle);
+    enemi1.accelerate(moveDistance);
+    enemi1.move();
+
     player1.move();
     controls.update();
 }
@@ -31,6 +35,13 @@ function player_collision()
         player1.graphic.position.y -= y;
     if ( y > HEIGHT )
         player1.graphic.position.y -= y - HEIGHT;
+
+    if ((player1.position.x + 20 < enemi1.position.x && player1.position.x - 20 > enemi1.position.x)
+    &&
+    (player1.position.y + 20 < enemi1.position.y && player1.position.y - 20 > enemi1.position.y))
+    {
+        oulalaJaiMal();
+    }
 
 }
 
