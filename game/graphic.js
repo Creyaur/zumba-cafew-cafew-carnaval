@@ -6,7 +6,7 @@ function refreshLives()
     vlives.className = "poulet";
 }
 
-function oulalaJeMeurs()
+function oulalaJeMeurs() // most usefull function
 {
     player1.dead();
 }

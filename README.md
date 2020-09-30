@@ -29,3 +29,43 @@ A video game with three.js
 - [X] : As a ennemy, I want to move on one axe
 - [X] : As a player, I want to decrease my life when I am touch by an ennemy
 - [X] : As a player, I want to decrease my life when I fall 
+
+estimation sur 100: 60, parce que le poney est sympa
+
+
+                                -.
+                               |  \
+                               |   \
+                               F    L
+                 |"-._         F    L
+                 |  `.`--.     L    |
+                 J    `.  `.   |    |   __
+                  \     `.  `. J    |.-'_.-
+                   \      `.  \ \.-     `-. 
+      J".           `.      \  >'          `.
+      |  \            `-.    L/       `---.._\
+      J   L              `"-/               |
+       \  |                J        / .-.   4
+        J F                |       | / d8   |
+         L\                F         | 8P   J
+         J L               |         `-'     `-.
+         | |                L  .          .-    )
+         | J                |   \        . dP  / 
+         J  \               |    `.       `-.-"
+          \  >-""""-.      .F      >"--.---._) 
+           >"        ""--""        |
+          J                        F
+          |                        L
+          J                        |
+           \        L         `.   J
+            )       | % |      | eJ" u+L
+           d"      d"  '|     :Fd"     4
+          P      u$"b.  $r    $*L u@".  F
+          $  ?F"" 4L ^F""$   F      zP $
+          4F  N    *. %. ^  4     $#  zF
+           #r ".    $  $ $  $   $$F :"
+           -F  $    ^k Jr@F $   $$$"
+            #. F     9$$$9  4
+            '$$$          $  *
+              ^"          3ed$.
+                           $$$#
